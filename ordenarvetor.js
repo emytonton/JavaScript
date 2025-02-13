@@ -43,3 +43,4 @@ const tarefas = [
 
 const tarefasOrdenadasPorData = ordenarTarefas(tarefas, "data", "crescente");
 console.log(tarefasOrdenadasPorData);
+
